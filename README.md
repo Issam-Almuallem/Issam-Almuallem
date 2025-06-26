@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Issam</h1>
 <h3 align="center">Computer Science Graduate</h3>
 
--💼 My projects are available here: [github.com/Issam-Almuallem](https://github.com/Issam-Almuallem)
+- 💼 My projects are available here: [github.com/Issam-Almuallem](https://github.com/Issam-Almuallem)
+  
 - 📫 Reach me at: issammuallem981@gmail.com
 
 ---
