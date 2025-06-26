@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Issam</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science Graduate</h3>
 
-- 🔭 I’m currently working on [Senior Project - Electric Billing System](https://github.com/Issam-Almuallem/Senior-Project-Electric-Billing-System)
-- 💼 I also built a [Hotel Booking System](https://github.com/Issam-Almuallem/Hotel-Booking-System) using PHP and MySQL
+-💼 My projects are available here: [github.com/Issam-Almuallem](https://github.com/Issam-Almuallem)
 - 📫 Reach me at: issammuallem981@gmail.com
 
 ---
