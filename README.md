@@ -20,7 +20,7 @@
 ---
 
 ### 📌 Pinned Projects
-- [Senior Project - Electric Billing System](https://github.com/Issam-Almuallem/Senior-Project-Electric-Billing-System)
+- [Senior Project - Electric Billing System](https://github.com/Issam-Almuallem/Senior-Project-Electric-Billing-System-)
 - [Hotel Booking System](https://github.com/Issam-Almuallem/Hotel-Booking-System)
 
 ---
